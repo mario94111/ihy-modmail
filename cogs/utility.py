@@ -1612,7 +1612,7 @@ class Utility(commands.Cog):
         """
         Commands relating to logviewer oauth2 login authentication.
 
-        This functionality on your logviewer site is a [**Patron**](https://patreon.com/kyber) only feature.
+        This functionality on your logviewer site is a [**Patron**](https://patreon.com/nissyy) only feature.
         """
         await ctx.send_help(ctx.command)
 
